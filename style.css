@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+ 
+  background-size: cover;
+  background-blend-mode: color-burn;
+  cursor: pointer;
+}
