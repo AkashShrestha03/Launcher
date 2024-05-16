@@ -9,3 +9,11 @@
   background-blend-mode: color-burn;
   cursor: pointer;
 }
+
+
+
+@media (max-width: 600px) {
+  .wrapper{
+    display: none;
+  }
+}
